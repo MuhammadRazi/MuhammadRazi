@@ -15,11 +15,11 @@
 
 - 📝 I occasionally write on [my development journey, AI integrations, and full-stack tricks](#) *(link to Medium or personal blog if available)*
 
-- 💬 Ask me about **React.js, Next.js, Node.js, MongoDB, and Laravel (I’ve used it too!)**
+- 💬 Ask me about **React.js, Next.js, Node.js and Laravel (I’ve used it too!)**
 
-- 📫 How to reach me: **muhammadrazi.dev@gmail.com**
+- 📫 How to reach me: **muhammadrazi3602@gmail.com**
 
-- 💼 Resume: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+- 💼 Resume: [https://your-portfolio-link.com](https://muhammad-razi-portfolio-uqnc.vercel.app/)
 
 ---
 
@@ -39,9 +39,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/razi_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razi_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-razi-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-razi-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/razi.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razi.codes" height="30" width="40" /></a>
+<a href="https://x.com/mat_kro_mention" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razi_dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-razi-73a1bb309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-razi-dev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bin_kazim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razi.codes" height="30" width="40" /></a>
 </p>
 
 ---
