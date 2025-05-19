@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React.js, Next.js, Node.js and Laravel (I’ve used it too!)**
 
-- 📫 How to reach me: **muhammadrazi3602@gmail.com**
+- 📫 How to reach me: **muhammadrazi3601@gmail.com**
 
 - 💼 Resume: [https://your-portfolio-link.com](https://muhammad-razi-portfolio-uqnc.vercel.app/)
 
