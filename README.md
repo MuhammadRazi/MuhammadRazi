@@ -13,7 +13,7 @@
 
 - 🤝 I’m open to freelance or full-time opportunities as a **MERN Stack Developer**
 
-- 📝 I occasionally write on [my development journey, AI integrations, and full-stack tricks](#) *(link to Medium or personal blog if available)*
+- 📝 I occasionally write on [my development journey, AI integrations, and full-stack tricks](#) 
 
 - 💬 Ask me about **React.js, Next.js, Node.js and Laravel (I’ve used it too!)**
 
